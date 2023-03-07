@@ -1,0 +1,59 @@
+.kong_high{
+    height: 40px;
+}
+.kong_width{
+    float: left;
+    width: 20px;
+    text-align: center;
+}
+.list{
+    width: 15%;
+    float: left;
+    text-align: center;
+    background-color:rgba(255, 255, 255,0.6);
+    border-radius: 5%;
+}
+.read{
+    width: 75%;
+    float: left;
+    text-align: center;
+    background-color:rgba(255, 255, 255,0.6);
+    border-radius: 5%;
+    text-shadow: 1px;
+}
+body{
+    background-image:url('../image/image.jpg');
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+}
+.text{
+    width: 90%;
+    text-align: left;
+    background-color:rgba(255, 255, 255,0.8);
+    float: left;
+    color:black
+}
+#头像{
+    background-image: url('../image/头像.png');
+    width: 25px;
+    float: right;
+    background-attachment: fixed;
+}
+#导航栏{
+    background-color: rgba(255, 255, 255,0.5);
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    background-attachment: fixed;
+}
+.box{
+    background-color: rgb(230, 230, 230);
+    width: 30%;
+    height: 70px;
+    margin-left: 10%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20%;
+}
